@@ -1,0 +1,20 @@
+[
+  {
+    "gender": "female",
+    "name": "Mrs Ulrike Rosenthal",
+    "id": "fb8bf375-f0c4-4f1c-90e6-f7211099ae5d",
+    "age": 70
+  },
+  {
+    "gender": "male",
+    "name": "Mr Juan Mckinney",
+    "id": "542e64ec-4908-491d-bc75-f4e20b1b5fae",
+    "age": 41
+  },
+  {
+    "gender": "male",
+    "name": "Mr Toivo Mikkola",
+    "id": "972dbe5a-e74d-490a-8733-10a454541779",
+    "age": 48
+  }
+]
